@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
 
 # 🏥 MediCare — Clinic Management System
 
@@ -270,10 +264,7 @@ MediCare uses a custom medical-themed design system built on TailwindCSS:
 ### Build Verification
 ```bash
 npm run build
-# ✅ 1781 modules transformed
-# ✅ 385KB JS (104KB gzip)
-# ✅ 48KB CSS (8.5KB gzip)
-# ✅ Zero errors
+
 ```
 
 ### Manual Testing
@@ -284,12 +275,4 @@ npm run build
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  Built with ❤️ by <strong>MediCare Team</strong>
-</p>
