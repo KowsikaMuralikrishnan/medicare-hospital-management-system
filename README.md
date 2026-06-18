@@ -222,7 +222,7 @@ Prerequisites
 
 Clone Repository
 
-git clone https://github.com/KowsikaMuralikrishnan/MediCare.git
+git clone https://github.com/KowsikaMuralikrishnan/medicare-hospital-management-system
 cd MediCare
 
 Backend Setup
