@@ -307,7 +307,7 @@ http://localhost:5173
 
 👨‍💻 Developed By
 
-Bae
+KOWSIKA M 
 Final Year Computer Science Engineering Student
 
 Technologies Used
